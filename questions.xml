@@ -7,8 +7,7 @@
       <answers>Canis lupus</answers>
       <answers>Panthera leo</answers>
       <answers>Mustela nivalis</answers>
-      <correct_answer>0</correct_answer>
-      <image>https://i.imgur.com/F3c602m.jpg</image>
+      <correct_answer>1</correct_answer>
     </questions>
     <questions>
       <question>How many whiskers does the average cat have?</question>
@@ -41,7 +40,6 @@
       <answers>Sphynx</answers>
       <answers>Manx</answers>
       <correct_answer>3</correct_answer>
-      <image>https://i.imgur.com/W9y35Y4.jpg</image>
     </questions>
     <questions>
       <question>What is the gestation period of a cat?</question>
